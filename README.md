@@ -3,12 +3,12 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./car%20final.png"/></td>
-    <td valign="top"><img src="./hellicopter%20final.png"/></td>
+    <td valign="top"><img src="./Screenshot 2023-07-20 223510.png"/></td>
+    <td valign="top"><img src="./Screenshot 2023-07-20 224005.png"/></td>
   </tr>
 </table>
 
-<div style="text-align:center"><img src="./ezgif.com-optimize.gif" /></div>
+<div style="text-align:center"><img src="./ezgif.com-video-to-gif.gif" /></div>
 
 [![N|Solid](https://download.blender.org/branding/blender_logo.png)](https://nodesource.com/products/nsolid)
 
