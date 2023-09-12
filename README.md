@@ -39,4 +39,3 @@ Downloading Blender software in Chrome is a straightforward process. Here are th
 - **Click the Download Button:** After selecting your preferred download version, click on the associated download button. This will start the download process.
 - **Open the Installer (if applicable):** If you downloaded the installer, locate the downloaded file (usually in your "Downloads" folder) and double-click it to run the installation process. Follow the on-screen instructions to install Blender on your computer.
 - **Launch Blender:** Once the installation is complete, you can launch Blender by searching for it in your computer's applications or programs menu. You can also create a desktop shortcut during the installation process for easy access.
-- wertyuiokjhgfcdfvsbvbhbvvb,svfbvjkdfvj,sdvkjsdvsbvsvbbvjksb
